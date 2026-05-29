@@ -51,7 +51,7 @@ Estou construindo projetos práticos para evoluir minhas habilidades e fortalece
 </p>
 
 <br clear="right"/>
----
+
 
 <h3 align="center">⌘ Technologies</h3>
 
@@ -93,12 +93,5 @@ Estou construindo projetos práticos para evoluir minhas habilidades e fortalece
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rfactt&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" />
 
 </div>
----
 
-<h3 align="center">Contribution Graph</h3>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rfactt&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" />
-
-</div>
