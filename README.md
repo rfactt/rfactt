@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-gaama/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-gaama/)
 [![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rfactt)
 <!--
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](SEU_PORTFOLIO)
@@ -46,7 +46,8 @@ Estou construindo projetos práticos para evoluir minhas habilidades e fortalece
 <br>
 ⌘ Criando projetos práticos para fortalecer meu portfólio
 <br>
-⌗ Aprendendo sobre sistemas, automação, backend e interfaces modernas
+⌗ Aprendendo sobre sistemas, automação, backend e
+    interfaces modernas
 </p>
 
 <br clear="right"/>
