@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-gaama/))
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-gaama/)
 [![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rfactt)
 <!--
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](SEU_PORTFOLIO)
@@ -17,12 +17,24 @@
 
 ---
 
+---
+
 <h3 align="center">About me</h3>
 
-<p align="center">
+<table>
+  <tr>
+    <td width="65%">
+
+<p align="left">
 I'm Rafael, a developer focused on building, breaking and rebuilding ideas through code.
-<br>
-Currently studying programming, systems, automation and modern web technologies.
+</p>
+
+<p align="left">
+Currently studying programming, systems, automation and modern web technologies, while creating practical projects to improve my skills and portfolio.
+</p>
+
+<p align="left">
+I like turning concepts into real applications, exploring backend logic, interfaces, and tools that solve problems in a simple and efficient way.
 </p>
 
 <div align="center">
@@ -30,6 +42,15 @@ Currently studying programming, systems, automation and modern web technologies.
 `Python` • `JavaScript` • `React` • `Node.js` • `Git` • `GitHub`
 
 </div>
+
+</td>
+<td width="35%" align="center">
+
+<img src="./assets/readme/about-me.png" width="230px" alt="Rfactt character illustration" />
+
+</td>
+  </tr>
+</table>
 
 ---
 
