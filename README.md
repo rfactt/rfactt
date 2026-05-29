@@ -21,42 +21,35 @@
 
 ---
 
-<h3 align="center">⌬  About me</h3>
+---
+
+<h3 align="center">⌬ About me</h3>
 
 <img align="right" width="220px" src="./assets/readme/about-me.png" alt="Rfactt character illustration" />
 
 <p align="center">
-Hello! I'm <strong>Rafael</strong>, a developer focused on building, breaking and rebuilding ideas through code.
+Olá! Eu sou <strong>Rafael</strong>, um desenvolvedor em formação focado em transformar ideias em projetos reais através do código.
 <br>
-Currently studying programming, systems, automation and modern web technologies.
+Atualmente estudo Python, JavaScript, React, Node.js, automação e desenvolvimento web.
 <br>
-I enjoy turning ideas into real applications, exploring backend logic, interfaces and efficient tools.
+Gosto de entender como as coisas funcionam por trás das interfaces, explorando lógica, backend e sistemas.
 <br>
-Always learning, testing and improving through practical projects.
+Estou construindo projetos práticos para evoluir minhas habilidades e fortalecer meu portfólio.
 </p>
 
 <br>
 
-<div align="center">
-
-🎓 Studying programming and software development  
-💻 Focused on Python, JavaScript, React and Node.js  
-🚀 Building projects to improve my portfolio  
-🧠 Learning systems, automation and backend development  
-
-</div>
+<p align="center">
+⌁ Estudando programação e desenvolvimento de software
+<br>
+⌬ Foco em Python, JavaScript, React e Node.js
+<br>
+⌘ Criando projetos práticos para fortalecer meu portfólio
+<br>
+⌗ Aprendendo sobre sistemas, automação, backend e interfaces modernas
+</p>
 
 <br clear="right"/>
-
-</td>
-<td width="35%" align="center">
-
-
-
-</td>
-  </tr>
-</table>
-
 ---
 
 <h3 align="center">⌘ Technologies</h3>
