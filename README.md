@@ -21,7 +21,7 @@
 
 ---
 
-<h3 align="center">⛓️ About me</h3>
+<h3 align="center">⌬  About me</h3>
 
 <img align="right" width="220px" src="./assets/readme/about-me.png" alt="Rfactt character illustration" />
 
@@ -59,7 +59,7 @@ Always learning, testing and improving through practical projects.
 
 ---
 
-<h3 align="center">Technologies</h3>
+<h3 align="center">⌘ Technologies</h3>
 
 <div align="center">
 
@@ -82,7 +82,7 @@ Always learning, testing and improving through practical projects.
 
 ---
 
-<h3 align="center">Statistics</h3>
+<h3 align="center">⌗ Statistics</h3>
 
 <div align="center">
 
@@ -92,7 +92,7 @@ Always learning, testing and improving through practical projects.
 
 ---
 
-<h3 align="center">Contribution Graph</h3>
+<h3 align="center">⌁ Contribution Graph</h3>
 
 <div align="center">
 
