@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)]([SEU_LINKEDIN](https://www.linkedin.com/in/rafael-gaama/))
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-gaama/))
 [![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rfactt)
 <!--
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](SEU_PORTFOLIO)
@@ -39,7 +39,7 @@ Currently studying programming, systems, automation and modern web technologies.
 
 ![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge=REACT-000000?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
@@ -50,13 +50,15 @@ Currently studying programming, systems, automation and modern web technologies.
 
 ---
 
+---
+
 <h3 align="center">Statistics</h3>
 
 <div align="center">
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rfactt&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
 
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=rfactt&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
+<img height="160em" src="https://streak-stats.demolab.com?user=rfactt&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
 
 </div>
 
