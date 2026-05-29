@@ -54,16 +54,25 @@ Currently studying programming, systems, automation and modern web technologies.
 
 ---
 
+---
+
 <h3 align="center">Statistics</h3>
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=rfactt&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="160em" src="https://streak-stats.demolab.com?user=rfactt&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
+<img width="70%" src="https://streak-stats.demolab.com?user=rfactt&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=999999" />
 
 </div>
 
+---
+
+<h3 align="center">Contribution Graph</h3>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rfactt&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" />
+
+</div>
 ---
 
 <h3 align="center">Contribution Graph</h3>
