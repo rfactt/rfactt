@@ -51,7 +51,7 @@ Always learning, testing and improving through practical projects.
 </td>
 <td width="35%" align="center">
 
-<img src="./assets/readme/about-me.png" width="230px" alt="Rfactt character illustration" />
+
 
 </td>
   </tr>
