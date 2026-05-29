@@ -52,11 +52,13 @@ Currently studying programming, systems, automation and modern web technologies.
 
 ---
 
+---
+
 <h3 align="center">Statistics</h3>
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=rfactt&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=rfactt&show_icons=true&theme=github_dark&hide_border=true" />
 
 <img height="160em" src="https://streak-stats.demolab.com?user=rfactt&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
 
