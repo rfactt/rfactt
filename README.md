@@ -19,29 +19,34 @@
 
 ---
 
-<h3 align="center">About me</h3>
+---
 
-<table>
-  <tr>
-    <td width="65%">
+<h3 align="center">⛓️ About me</h3>
 
-<p align="left">
-I'm Rafael, a developer focused on building, breaking and rebuilding ideas through code.
+<img align="right" width="220px" src="./assets/readme/about-me.png" alt="Rfactt character illustration" />
+
+<p align="center">
+Hello! I'm <strong>Rafael</strong>, a developer focused on building, breaking and rebuilding ideas through code.
+<br>
+Currently studying programming, systems, automation and modern web technologies.
+<br>
+I enjoy turning ideas into real applications, exploring backend logic, interfaces and efficient tools.
+<br>
+Always learning, testing and improving through practical projects.
 </p>
 
-<p align="left">
-Currently studying programming, systems, automation and modern web technologies, while creating practical projects to improve my skills and portfolio.
-</p>
-
-<p align="left">
-I like turning concepts into real applications, exploring backend logic, interfaces, and tools that solve problems in a simple and efficient way.
-</p>
+<br>
 
 <div align="center">
 
-`Python` • `JavaScript` • `React` • `Node.js` • `Git` • `GitHub`
+🎓 Studying programming and software development  
+💻 Focused on Python, JavaScript, React and Node.js  
+🚀 Building projects to improve my portfolio  
+🧠 Learning systems, automation and backend development  
 
 </div>
+
+<br clear="right"/>
 
 </td>
 <td width="35%" align="center">
