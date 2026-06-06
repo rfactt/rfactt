@@ -53,7 +53,7 @@ Estou construindo projetos práticos para evoluir minhas habilidades e fortalece
 <br clear="right"/>
 
 
-<h3 align="center">⌘ Technologies</h3>
+<h3 align="center">⌘ Stacks</h3>
 
 <div align="center">
 
